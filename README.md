@@ -190,3 +190,9 @@ the reservation station’s name (meaning no next issued instruction will write 
 
 
 ### Video demo: https://drive.google.com/file/d/1GgZ7wZ4WED4e_vi81PnM52MShpjQgyNc/view
+
+## Contributors
+
+👤 **Nahla Sultan, Youssef Hedaya, Omar Eissa**
+
+* Github: [@nahla.sultan](https://github.com/nahla.sultan)
