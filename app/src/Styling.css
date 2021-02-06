@@ -1,0 +1,139 @@
+#title {
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+  
+  #requests {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+  }
+  
+  #requests td, #students th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #requests tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #requests tr:hover {background-color: #ddd;}
+  
+  #requests th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  #title {
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+  
+  #requests {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+  }
+  
+  #requests td, #students th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+
+   #title {
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+  
+  #schedule {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+  }
+  
+  #schedule td, #students th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #schedule tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #schedule tr:hover {background-color: #ddd;}
+  
+  #schedule th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  #title {
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+  
+  #schedule {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+  }
+  
+  #schedule td, #students th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .btn {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+    text-transform: uppercase;
+    height: 25px;
+    border-radius: 30px; 
+    background:  #4CAF50;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+   
+    padding: 0 25px;
+  
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+  }
+  
+  .btn:hover {
+    background: #7e7e7e;
+  }
+  
+  
+  /* Dropdown Button */
+.dropbtn {
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  align-items: center;
+  align-self: center;
+  vertical-align: inherit;
+  padding: 10px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+
