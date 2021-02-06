@@ -9,11 +9,13 @@ We implemented our project using javascript and react js.
 
 **Run the following commands**
 
-**cd app**
+```sh
+cd app
 
-**npm install**
+npm install
 
-**npm start**
+npm start
+```
 
 
 # 1.Models
