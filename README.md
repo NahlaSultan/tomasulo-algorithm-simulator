@@ -17,6 +17,11 @@ npm install
 npm start
 ```
 
+![Screen Shot 2021-02-15 at 7 16 16 PM](https://user-images.githubusercontent.com/46445279/107977322-9429b800-6fc3-11eb-829d-e338a7aed63d.png)
+![Screen Shot 2021-02-15 at 7 16 34 PM](https://user-images.githubusercontent.com/46445279/107977339-9be95c80-6fc3-11eb-9884-6098e69500e5.png)
+
+
+
 
 # 1.Models
 
